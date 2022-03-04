@@ -2,7 +2,7 @@ THe problem was to:
 
 Create a function that takes two arguments: 
   1. a phrase (string)
-  2. a number that the each letter of the phrase will be shifted by
+  2. a number that the each letter of the phrase will be shifted by according that letter's position in the alphabet
   
 and returns a new phrase with an encrypted message 
   
